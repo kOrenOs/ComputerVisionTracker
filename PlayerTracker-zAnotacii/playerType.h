@@ -1,0 +1,1 @@
+enum PlayerType { playerYellow, playerOrange, goalkeeperYellow, goalkeeperOrange, referee, group };
